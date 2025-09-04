@@ -1,0 +1,3 @@
+payment:
+  gateway:
+    url: https://dev.phonepe.gateway.com/process
