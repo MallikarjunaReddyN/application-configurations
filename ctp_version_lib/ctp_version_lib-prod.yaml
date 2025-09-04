@@ -1,0 +1,6 @@
+ctp:
+  version:
+    CTP1: HGF1|HGF2|HGF3
+    CTP2: WER1|WER2|WER3
+    CTP3: TYU1|TYU2|TYU3
+    CTP3_Extended: LKJ1|LKJ2|LKJ3

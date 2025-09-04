@@ -1,0 +1,6 @@
+ctp:
+  version:
+    CTP1: ASD1|ASD2|ASD3
+    CTP2: HNM1|HNM2|HNM3
+    CTP3: XCV1|XCV2|XCV3
+    CTP3_Extended: SDE1|SDE2|SDE3
